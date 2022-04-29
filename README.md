@@ -1,4 +1,5 @@
-### Hi there 👋
+<div align="center">
+<h3>Welcome to my profile!😐</h1>
 
 <!--
 **Xrddr/Xrddr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=Xrddr&color=blueviolet&&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Xrddr&color=blueviolet&&style=flat-square) who is it?🤔
